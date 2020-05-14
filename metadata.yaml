@@ -1,11 +1,16 @@
 _repo: General-Brock_62056
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 62056-h/images/img-cover.jpg
 creator:
   author:
     agent_name: Edgar, Matilda Ridout
     gutenberg_agent_id: '51752'
     url: http://www.gutenberg.org/2009/agents/51752
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/62056#General-Brock
 gutenberg_issued: '2020-05-08'
 gutenberg_type: Text
 identifiers:
